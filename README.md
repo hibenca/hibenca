@@ -1,6 +1,6 @@
 ### Hi there, I'm [Corey!](https://hibenca.github.io/) 👋 
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/53c01f58e4b011307db8af93/1536859648451-REQ510XE05I6OGDHWV2M/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/mental+health.gif?format=1000w" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://www.reactiongifs.us/wp-content/uploads/2018/06/7M5g.gif" />
 
 ### I'm a self-taught developer and healthcare professional living in the Twin Cities.
 <br/>
