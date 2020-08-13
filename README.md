@@ -10,7 +10,7 @@
 <br/>
 
 #### 🌱 I’m currently learning
-- React development
+- Deep JavaScript understanding
 <br/>
 
 #### ⚡ Brain teaser
