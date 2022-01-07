@@ -1,16 +1,16 @@
-### Hi there, I'm [Corey!](https://hibenca.github.io/) 👋 
+### Hi there, I'm [Corey!](https://www.coreyhi.com/) 👋 
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://www.reactiongifs.us/wp-content/uploads/2018/06/7M5g.gif" />
 
-### I'm a self-taught developer and healthcare professional living in the Twin Cities.
+### I'm a self-taught developer and healthcare professional living in the Austin Texas.
 <br/>
 
 #### 🔭 I’m currently working on
-- Freelance web development for Minneapolis non-profits
+- Web development for a Physical Therapist
 <br/>
 
 #### 🌱 I’m currently learning
-- Deep JavaScript understanding
+- Deep marketing understanding
 <br/>
 
 #### ⚡ Brain teaser
@@ -25,7 +25,7 @@ The world you see works in much of the same way. It may APPEAR to be a scary pla
 
 #### ❤️ I'm into
 - Health, happiness and a delicious cup of coffee with good company... is that you?
-- Connect with me @  my [portfolio](https://hibenca.github.io/#contact)
+- Connect with me @  my [portfolio](https://www.coreyhi.com/contact)
 
 <br />
 
